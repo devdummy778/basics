@@ -16,3 +16,5 @@ const widget = () => {
 const auth = () => {
     console.log('User auth');
 }
+
+const bossFix = "the fix for my boss";
