@@ -20,3 +20,4 @@ const auth = () => {
 const bossFix = "the fix for my boss";
 ///
 const stashContent = "Some content";
+console.log('some changes 1');
