@@ -17,4 +17,9 @@ const auth = () => {
     console.log('User auth');
 }
 
+<<<<<<< Updated upstream
 const bossFix = "the fix for my boss";
+=======
+///
+const stashContent = "Some content";
+>>>>>>> Stashed changes
