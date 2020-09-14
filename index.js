@@ -13,6 +13,6 @@ const widget = () => {
     console.log('something new')
 }
 
-const user = () => {
-    alert("some other code");
+const auth = () => {
+    console.log('User auth');
 }
